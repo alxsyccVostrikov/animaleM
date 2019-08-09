@@ -1,0 +1,24 @@
+@import url("https://use.fontawesome.com/releases/v5.4.1/css/all.css");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css");
+
+/*
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+written by alxsy mostovik....vostrikovalxsycc@gmail.com
+
+*/
+
+/*
+global vars
+*/
+:root{
+--Azul:rgba(135,206,250,.7);
+}
+
+/*
+global settings 
+*/
+body{
+background-color:var(--Azul);
+
+}
