@@ -47,3 +47,12 @@ function getPageName(){
   return ucfirst(basename($_SERVER['PHP_SELF'],".php"));  
   }
   
+
+
+
+  function tab($quant){
+  	$spc="\t";
+	for($i=0;$i<$quant;$i++)
+		$spc.="\t";
+	return $spc;
+  }

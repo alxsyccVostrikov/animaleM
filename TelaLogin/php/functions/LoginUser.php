@@ -3,12 +3,13 @@ session_start();
 require "./settings.php";
 $_SESSION["email"]=$_REQUEST["email"];;
 echo "Welcome ".$_SESSION["email"];
+require "./functions.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title><?php echo getPageName();?></title>
 </head>
 <body>
   

@@ -43,7 +43,7 @@ document.write("<nav class='navbar navbar-inverse sidebar' role='navigation'>");
     	document.write("<div class='collapse navbar-collapse' id='bs-sidebar-navbar-collapse-1'>");
 			document.write("<ul class='nav navbar-nav'>");
 for(let i=0;i<menuLateralPage.length;i++)
-document.write("<li><a href='"+menuLateralPage[i]+"'><span style='font-size:16px;' class='fa "+menuLateralIcon[i]+"'> "+menuLateralName[i]+"</span></a></li>");
+document.write("<li><a href='"+menuLateralPage[i]+"'><span style='font-size:14px;' class='fa "+menuLateralIcon[i]+"'> "+menuLateralName[i]+"</span></a></li>");
   document.write("</ul>");
 	   document.write("</div>");
 document.write("</nav>");	

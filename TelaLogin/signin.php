@@ -15,14 +15,22 @@ require "./php/functions/functions.php";
   
   
   
+  <style>
+    /*
+    @import url("https://use.fontawesome.com/releases/v5.4.1/css/all.css");
+    @import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css");
+  */
+  </style>
   
   <!--global settings-->
     <!--css-->
   <link rel="stylesheet" href="./css/sigin.css">
     
     <!--js-->
+  <script src="./js/componentes/Button.js" ></script>
   <script src="./js/componentes/MenuBar.js" ></script>
   <script src="./js/functions.js" ></script>
+  <!--<script src="./js/settings.js" ></script> -->
   <script src="./js/componentes/sigin.js"></script>
     
   
