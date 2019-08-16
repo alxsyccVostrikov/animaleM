@@ -18,6 +18,7 @@ require "./php/functions/functions.php";
     /*
     @import url("https://use.fontawesome.com/releases/v5.4.1/css/all.css");
     @import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css");
+  */
   </style>
   
   
