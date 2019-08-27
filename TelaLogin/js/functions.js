@@ -28,3 +28,15 @@ document.getElementById("password-repeat").value="";
 
 }
 
+
+
+
+function  cleanWord(word){
+  return word.
+  replace(/á|à|ã|â|ä|Á|À|Ã|Â|Ä/,"a").
+  replace(/é|è|ẽ|ê|ë|É|È|Ê|Ë/,"e").
+  replace(/í|ì|ĩ|î|ï|Í|Ì|Î|Ï/,"i").
+  replace(/ó|ò|õ|ô|ö|Ó|Ò|Õ|ö|Ó|Ò|Ô|Ö/,"o").
+  replace(/ú|ù|ũ|û|ü|Ú|Ù|ü/,"u").
+  replace(/ḉ|ç|Ç/,"c");
+}
