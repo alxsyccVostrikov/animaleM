@@ -16,13 +16,3 @@ comentários do próprio(settings.php),isso faz com que você tenha agilidade na
 
 3-Fim,configurando essas váriaveis com os campos,nomes,valores adequado,os algoritmos que seguem fazem o trabalho automatico e otimizado das tarefas,desde criação de form com quantidade adequada de imputs com id e names setados automaticamente,facilitando o recebimento dos dados via php....
 
-
-Qualquer coisa entra em contato comigo....,na barra de menu do sistema basta clicar no "Animale(nome do sistema)",será disparado um alert com meu email,esse email só uso para a comunidade de desenvolvimento......
-
-
-i hope that this tuto help u,big hug buddy
-
-
-
-
-ps.some gd functions can be found it in js/functions.js
