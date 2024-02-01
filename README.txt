@@ -1,18 +1,17 @@
 if doesnt work...,is blank page,sure tat u cant access db...or case can it,configure it
 
 
-Bom,enfim se você chegou aqui é por que vc se interessou no funcionamento do código criado por mim,
-abaixo segue uma lista de instrunções que serão úteis para o gerenciamento do sistema.....
+Well, anyway, if you arrived here it's because you were interested in how the code created by me works,
+Below is a list of instructions that will be useful for managing the system.....
 
 
-1-O sistema está voltado ao uso de AI(Artificial intelligence),a ponto de ser fácil a manuntenção do cód...,
+1-The system is focused on the use of AI (Artificial intelligence), to the point that it is easy to maintain the code...,
 
 
-2-Existem apenas dois arquivos de configuração do Sistema,Sim,o Sistema inteiro,poré para facilitar a usuabilidade da manutenção do cód embuti eles em um único,poré é possivél trabalhar com eles separadamente,está localizado em
-./php/functions/settings.php.......,abrindo o arquivo voçê irá perceber que existe uma seção para o php e outra para o js como digo nos
-comentários do próprio(settings.php),isso faz com que você tenha agilidade na hora de mudar configurações,matando dois coelhos com uma porrada só,o JS e o PHP....,
+2-There are only two System configuration files, Yes, the entire System, but to facilitate the usability of maintaining the code, I have embedded them in a single one, but it is possible to work with them separately, it is located in
+./php/functions/settings.php......., opening the file you will notice that there is a section for php and another for js as I say in the
+comments from himself (settings.php), this makes it easier for you to change settings, killing two birds with one blow, JS and PHP...,
 
 
 
-3-Fim,configurando essas váriaveis com os campos,nomes,valores adequado,os algoritmos que seguem fazem o trabalho automatico e otimizado das tarefas,desde criação de form com quantidade adequada de imputs com id e names setados automaticamente,facilitando o recebimento dos dados via php....
-
+3-End, by configuring these variables with the appropriate fields, names, values, the algorithms that follow do the automatic and optimized work of the tasks, from creating a form with an adequate number of inputs with automatically set ids and names, facilitating the reception of data via php....
